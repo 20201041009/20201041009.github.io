@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zhijie Hu / Site Title"
+title                    : "Zhijie Hu's Homepage"
 title_separator          : "-"
 name                     : &name "Zhijie Hu"
 description              : &description "Zhijie Hu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Zhijie Hu"
+  pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Dalian China"
+  employer         : "Dalian University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xhjhuzj@163.com" 
 
   # Academic websites
   academia         : # URL
