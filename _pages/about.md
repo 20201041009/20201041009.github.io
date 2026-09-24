@@ -104,6 +104,7 @@ permalink: /
     <li><strong>CAD & Modeling Softwares:</strong> Proficient in UG (Siemens NX), AutoCAD.</li>
     <li><strong>CAE & Simulation Tools:</strong> Proficient in ABAQUS, ANSYS, FLUENT.</li>
     <li><strong>Programming & Data Analysis:</strong> Python (Pandas, NumPy, Matplotlib, scikit-learn), MATLAB, C.</li>
+    <li><strong>Language Proficiency:</strong> IELTS 7.0 (Listening: 7.0, Reading: 8.0, Writing: 6.5, Speaking: 6.0)</li>
     <li><strong>Academic & Experimental Skills:</strong> Multiphysics Modeling, Experimental Platform Construction, Technical Writing & Presentation.</li>
   </ul>
 </section>
@@ -113,32 +114,69 @@ permalink: /
   <h2>Publications & Patents</h2>
 
   <h3>Journal Publications</h3>
-  <ol style="line-height: 1.6; font-size: 14.5px; padding-left: 20px;">
-    <li>
+  <ol style="line-height: 1.8; font-size: 14.5px; padding-left: 20px;">
+    
+    <!-- Paper 1 -->
+    <li style="margin-bottom: 12px;">
       <strong>Zhijie Hu</strong>, Hang Yuan, Junzhuo Wang, Zhubin He, et al. "Gas-Liquid Low-Pressure Forming of Concave Thin-Walled Aluminum Alloy Tubes." <em>International Journal of Advanced Manufacturing Technology</em>, 2026. (In Revision)
+      <div style="margin-top: 4px;">
+        <a href="/files/paper_gllf_draft.pdf" target="_blank" class="btn-link">📄 Draft PDF</a>
+        <a href="https://youtu.be/IC-TBfFNUhA" target="_blank" class="btn-link">🎬 Video</a>
+      </div>
     </li>
-    <li>
+
+    <!-- Paper 2 -->
+    <li style="margin-bottom: 12px;">
       Hang Yuan, Junzhuo Wang, Yanli Lin, <strong>Zhijie Hu</strong>, Zhubin He, et al. "An integrated simulation method for process window determination and deformation analysis in gas-liquid low-pressure forming of complex thin-walled tubes." <em>Journal of Materials Processing Technology</em>, 2026.
+      <div style="margin-top: 4px;">
+        <a href="/files/paper_jmpt_2026.pdf" target="_blank" class="btn-link">📄 PDF</a>
+        <a href="https://doi.org/10.1016/j.jmatprotec.2026.119447" target="_blank" class="btn-link">🌐 Publisher Link</a>
+      </div>
     </li>
-    <li>
+
+    <!-- Paper 3 -->
+    <li style="margin-bottom: 12px;">
       Hang Yuan, Yibo Su, Junzhuo Wang, <strong>Zhijie Hu</strong>, Zhubin He, et al. "Gas–liquid low-pressure forming breaks tube corner-forming limits." <em>International Journal of Mechanical Sciences</em>, 2026.
+      <div style="margin-top: 4px;">
+        <a href="/files/paper_ijms_2026.pdf" target="_blank" class="btn-link">📄 PDF</a>
+        <a href="https://doi.org/10.1016/j.ijmecsci.2026.111672" target="_blank" class="btn-link">🌐 Publisher Link</a>
+      </div>
     </li>
-    <li>
+
+    <!-- Paper 4 -->
+    <li style="margin-bottom: 12px;">
       Hang Yuan, Gaoning Tian, Yanli Lin, Yi Xu, <strong>Zhijie Hu</strong>, Zhubin He, et al. "Suppressing thin-wall instability through self-pressurizing of the medium: A novel gas-liquid low-pressure tube forming technology." <em>Journal of Materials Processing Technology</em>, 2025.
+      <div style="margin-top: 4px;">
+        <a href="/files/paper_jmpt_2025.pdf" target="_blank" class="btn-link">📄 PDF</a>
+        <a href="https://doi.org/10.1016/j.jmatprotec.2025.119120" target="_blank" class="btn-link">🌐 Publisher Link</a>
+      </div>
     </li>
+
   </ol>
 
-  <h3 style="margin-top: 20px;">Patents</h3>
-  <ol style="line-height: 1.6; font-size: 14.5px; padding-left: 20px;">
-    <li>
+  <h3 style="margin-top: 25px;">Patents</h3>
+  <ol style="line-height: 1.8; font-size: 14.5px; padding-left: 20px;">
+    
+    <!-- Patent 1 -->
+    <li style="margin-bottom: 12px;">
       <strong>Zhijie Hu</strong>, Zhubin He, et al. "A Movable Segmented Mold Structure for Gas–Liquid Hybrid Compression Forming." Patent No. CN118357339A.
+      <div style="margin-top: 4px;">
+        <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui" target="_blank" class="btn-link">📜 Patent Link</a>
+        <a href="/files/CN202410517167_FullTextImage.pdf" target="_blank" class="btn-link">📄 PDF</a>
+      </div>
     </li>
-    <li>
+
+    <!-- Patent 2 -->
+    <li style="margin-bottom: 12px;">
       Zhubin He, <strong>Zhijie Hu</strong>, et al. "A Pressure Control System and Method for Gas–Liquid Hybrid Compression Forming." Patent No. CN118357339A.
+      <div style="margin-top: 4px;">
+        <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui" target="_blank" class="btn-link">📜 Patent Link</a>
+        <a href="/files/CN202511049262_FullTextImage.pdf" target="_blank" class="btn-link">📄 PDF</a>
+      </div>
     </li>
+
   </ol>
 </section>
-
 <!-- 6. Honors & Awards 板块 -->
 <section id="awards" class="section-card">
   <h2>Honors & Awards</h2>
