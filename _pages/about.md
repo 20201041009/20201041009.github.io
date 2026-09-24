@@ -1,11 +1,68 @@
 ---
-permalink: /
-title: "Hello there, I'm Zhijie!"
+layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /
 ---
+
+## Biography {#biography}
+
+I am a Master's researcher in Mechanical Engineering at Dalian University of Technology (DUT), specializing in advanced manufacturing, metal forming, and lightweight structures. My research focuses on novel forming processes and multiphysics modeling, particularly in **gas–liquid low-pressure tube forming** and **flexible-media composite manufacturing**. 
+
+With a GPA of **3.83/4.0 (Top 1.5%)**, I have built a solid foundation in 3D modeling, process design, FEA simulations (ABAQUS), and experimental validation. I am actively seeking Ph.D. opportunities starting in **Fall 2027**.
+
+**Research Interests:**
+* Gas–Liquid Low-Pressure Tube Forming (GLLF)
+* Composite Material Processing & 3D Printed Molds
+* Finite Element Analysis (FEA) & Multiphysics Simulation
+* Lightweight Structural Design
+
+---
+
+## Education {#education}
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="/images/DUT_logo.png" alt="DUT" width="80px">
+  <div>
+    <strong>Dalian University of Technology (DUT)</strong><br>
+    M.S. in Mechanical Engineering<br>
+    <em>Sept. 2024 – Expected June 2027</em>
+  </div>
+</div>
+
+---
+
+## Research Experiences {#research}
+
+### Gas–Liquid Low-Pressure Forming (GLLF) of Thin-Walled Tubes
+* Developed multiphysics FEA models in ABAQUS to simulate gas-liquid coupled forming processes.
+* Validated experimental designs and optimized process parameters for concave tube structures.
+
+<p align="center">
+  <img src="/images/gllf_research_diagram.png" width="85%" alt="GLLF Research">
+</p>
+
+---
+
+## Publications & Patents {#publications}
+
+1. **Zhijie Hu**, et al. "Research on Gas-Liquid Low-Pressure Forming of Concave Thin-Walled Metal Tubes." *(Submitted to IJAMT)*.
+2. [Patent] A novel forming device for composite material hot pressing using 3D-printed dynamic molds. *(Granted/Pending)*
+
+---
+
+## Honors & Awards {#awards}
+
+* **Gold Medal**, Geneva International Exhibition of Inventions (2026)
+* **National Gold Medal**, China "Internet+" Innovation and Entrepreneurship Competition
+* **First Prize**, Liaoning Mechanical Innovation Design Competition
+# ---
+# permalink: /
+# title: "Hello there, I'm Zhijie!"
+# author_profile: true
+# redirect_from: 
+ # - /about/
+ # - /about.html
+#---
 
 I am a Master's researcher in Mechanical Engineering at Dalian University of Technology (DUT), specializing in advanced manufacturing, metal forming, and lightweight  structures. My research focuses on novel forming processes and multiphysics modeling, particularly in gas–liquid low-pressure tube forming and flexible-media composite manufacturing. With a GPA of 3.83/4.0 (ranked top 1.5%) and a track record that includes first-author publications, patented inventions, and national gold awards, I have built a strong foundation in 3D modeling, process design, FEA simulations (ABAQUS), and experimental validation. I am eager to pursue a Ph.D. degree starting in Fall 2027.
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
