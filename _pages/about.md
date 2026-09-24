@@ -63,37 +63,36 @@ permalink: /
   </div>
 </section>
 
-<!-- 3. Research Experiences 板块 -->
+<!-- 3. Research Experiences 板块 (主页精简版) -->
 <section id="research" class="section-card">
   <h2>Research Experiences</h2>
 
-  <div style="margin-bottom: 30px;">
-    <h3 style="margin-bottom: 5px; color: #111;">Gas-liquid Low-pressure Forming of Concave Thin-walled Aluminum Alloy Tubes</h3>
-    <p style="color: #666; font-size: 14px; margin-top: 0;"><em>Master’s Thesis Research | Advisor: Prof. Zhubin He @ DUT</em> <span style="float: right;">09/2024 – Present</span></p>
-    
-    <p align="center" style="margin: 15px 0;">
-      <img src="/images/gllf_research.png" alt="GLLF Research" width="85%" style="border-radius: 6px; border: 1px solid #eaeaea;">
-    </p>
+  <div class="research-grid">
 
-    <ul style="font-size: 14.5px; line-height: 1.6;">
-      <li>Researched a novel gas–liquid low-pressure forming (GLLF) process for concave aluminum alloy tubes, addressing internal pressure control, wrinkling, and dimensional accuracy limits.</li>
-      <li>Proposed a dual-medium support strategy based on the gas state equation, enabling self-adaptive pressure evolution without active pressure control.</li>
-      <li>Established an ABAQUS finite element model to analyze circumferential stress and wall-thickness distributions and determine critical supporting pressure.</li>
-      <li>Constructed the experimental platform, achieving sub-millimeter (0.5 mm) dimensional accuracy.</li>
-      <li><strong>Outcomes:</strong> Submitted first-author paper to <em>IJAMT</em>; core technology won the <strong>Gold Medal at International Exhibition of Inventions Geneva (2026)</strong>. [<a href="https://youtu.be/IC-TBfFNUhA" target="_blank">Demonstrative Video</a>]</li>
-    </ul>
-  </div>
+    <!-- 项目 1 -->
+    <a href="/research/gllf/" class="research-card-link">
+      <div class="research-card">
+        <div class="research-img-wrapper">
+          <img src="/images/gllf_research.png" alt="Gas-liquid Low-pressure Forming">
+        </div>
+        <div class="research-title">
+          Gas-Liquid Low-Pressure Forming of Concave Thin-Walled Aluminum Alloy Tubes
+        </div>
+      </div>
+    </a>
 
-  <hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+    <!-- 项目 2 -->
+    <a href="/research/thermoplastic-composite/" class="research-card-link">
+      <div class="research-card">
+        <div class="research-img-wrapper">
+          <img src="/images/composite_research.png" alt="Thermoplastic Composite Structure">
+        </div>
+        <div class="research-title">
+          Development of Large-Sized Integrated Thermoplastic Composite Structure
+        </div>
+      </div>
+    </a>
 
-  <div style="margin-bottom: 25px;">
-    <h3 style="margin-bottom: 5px; color: #111;">Development of Large-sized Integrated Thermoplastic Composite Structure</h3>
-    <p style="color: #666; font-size: 14px; margin-top: 0;"><em>Research Assistant | Advisor: Prof. Xigao Jian @ DUT</em> <span style="float: right;">01/2025 – 04/2026</span></p>
-    <ul style="font-size: 14.5px; line-height: 1.6;">
-      <li>Developed a rigid–flexible media collaborative loading approach with encapsulated prepreg tapes and custom sealing flange systems for uniform pneumatic pressure application.</li>
-      <li>Designed complete forming tools using Siemens NX (UG) and validated sealing performance via ABAQUS simulations.</li>
-      <li>Successfully fabricated large-sized components including 4m flat plates, 4m L-shaped webs, 3m Π-shaped reinforcing ribs, and 1m corrugated covers.</li>
-    </ul>
   </div>
 </section>
 
@@ -208,7 +207,7 @@ permalink: /
       <div class="hobby-content">
         <h3>Tennis</h3>
         <p>
-          I am an active tennis player and certified/experienced coach. Tennis keeps me balanced—whether it's fine-tuning stroke mechanics, discussing gear setups, or enjoying a high-intensity match on court.
+          I am an active tennis player and amateur coach. Tennis keeps me balanced—whether it's fine-tuning stroke mechanics, discussing gear setups, or enjoying a high-intensity match on court.
         </p>
       </div>
     </div>
@@ -234,7 +233,7 @@ permalink: /
       <div class="hobby-content">
         <h3>Music & Erhu</h3>
         <p>
-          Music provides a creative outlet away from scientific research. I play the traditional Chinese instrument Erhu (二胡) and enjoy exploring diverse musical genres and expressive melodies.
+          Music provides a creative outlet away from scientific research. I play the traditional Chinese instrument Erhu and enjoy exploring diverse musical genres and expressive melodies.
         </p>
       </div>
     </div>
@@ -247,7 +246,7 @@ permalink: /
       <div class="hobby-content">
         <h3>Travel & Outdoor</h3>
         <p>
-          I love exploring new cities, hiking, and long-distance road/trail running. Wandering through unfamiliar places and hidden trails feeds my curiosity and offers fresh inspiration.
+          I love exploring new cities, hiking, and long-distance road running. Wandering through unfamiliar places and hidden trails feeds my curiosity and offers fresh inspiration.
         </p>
       </div>
     </div>
