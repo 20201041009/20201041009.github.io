@@ -4,6 +4,242 @@ author_profile: true
 permalink: /
 ---
 
+<!-- 1. Biography 板块 -->
+<section id="biography" class="section-card">
+  <h2>Biography</h2>
+  <p>
+    I am a Master's student in Mechanical Engineering at <strong>Dalian University of Technology (DUT)</strong>, working under the supervision of Prof. Zhubin He. My research spans the fields of advanced manufacturing and lightweight structural design, with a primary focus on novel metal forming processes, composite manufacturing, and multiphysics modeling.
+  </p>
+  <p>
+    With an overall GPA of <strong>3.83/4.0 (ranked Top 1.5%)</strong> and a solid background in CAD/CAE simulations (ABAQUS, ANSYS, FLUENT), I have published multiple research papers in leading mechanical journals, holds several patents, and led teams to win national gold awards in prestigious innovation competitions. I am actively seeking Ph.D. opportunities starting in <strong>Fall 2027</strong>.
+  </p>
+
+  <p><strong>Research Interests:</strong></p>
+  <ul>
+    <li><strong>Advanced Manufacturing Processes</strong>: Gas–Liquid Low-Pressure Tube Forming (GLLF), Metal Forming & Casting[cite: 8]</li>
+    <li><strong>Lightweight Manufacturing</strong>: Carbon Fiber Composites & Thermoplastic Structural Processing[cite: 8]</li>
+    <li><strong>Simulation & Optimization</strong>: Multiphysics Modeling, FE Simulation (ABAQUS, ANSYS, FLUENT) & Process Optimization[cite: 8]</li>
+    <li><strong>AI for Manufacturing</strong>: Data-driven Process Modeling & Smart Toolpath Planning[cite: 8]</li>
+  </ul>
+</section>
+
+<!-- 2. Education 板块 -->
+<section id="education" class="section-card">
+  <h2>Education</h2>
+
+  <!-- DUT M.Sc. -->
+  <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 25px;">
+    <img src="/images/DUT_logo.png" alt="DUT Logo" width="75px" style="margin-top: 5px;">
+    <div style="flex: 1;">
+      <h3 style="margin: 0; font-size: 18px;">Dalian University of Technology (DUT)</h3>
+      <p style="margin: 3px 0; color: #666; font-weight: 500;">M.Sc. in Mechanical Engineering | Sept. 2024 – May 2027 (Expected)</p>
+      <ul style="margin-top: 8px; padding-left: 18px; font-size: 14.5px;">
+        <li><strong>GPA:</strong> 3.83 / 4.0 (Ranked Top 1.5%)[cite: 8]</li>
+        <li><strong>Core Courses:</strong> Precision Metal Forming Tech., Additive Manufacturing & Composite Materials Processing, Robot Design & Application, Ultrasonic Nondestructive Evaluation, Mechatronics Tech.[cite: 8]</li>
+        <li><strong>Honors:</strong> Science and Technology Innovation Scholarship (Top 1%), Gold Award in China "Internet+" Innovation Competition (National Finals, Top 0.008%).[cite: 8]</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+
+  <!-- DUT B.Sc. -->
+  <div style="display: flex; align-items: flex-start; gap: 20px;">
+    <img src="/images/DUT_logo.png" alt="DUT Logo" width="75px" style="margin-top: 5px;">
+    <div style="flex: 1;">
+      <h3 style="margin: 0; font-size: 18px;">Dalian University of Technology (DUT)</h3>
+      <p style="margin: 3px 0; color: #666; font-weight: 500;">B.Sc. in Mechanical Engineering (Mechanical Design, Manufacturing & Automation) | Sept. 2020 – Jun. 2024</p>
+      <ul style="margin-top: 8px; padding-left: 18px; font-size: 14.5px;">
+        <li><strong>GPA:</strong> 3.63 / 4.0 (Ranked Top 5%)[cite: 8]</li>
+        <li><strong>Core Courses:</strong> Mechanical Principle & Design, Mechanics of Materials, Advanced Forming Technology, Fluid Power & Control, Precision Machinery Manufacturing.[cite: 8]</li>
+        <li><strong>Honors:</strong> Mechanical Engineering Alumni Scholarship (Top 0.5%), Academic Excellence Scholarship (2021-2023), Finalist in MCM/ICM (Top 1.8%-2.0%), Gold Award in Challenge Cup Liaoning Competition.[cite: 8]</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- 3. Research Experiences 板块 -->
+<section id="research" class="section-card">
+  <h2>Research Experiences</h2>
+
+  <!-- Project 1 -->
+  <div style="margin-bottom: 30px;">
+    <h3 style="margin-bottom: 5px; color: #111;">Gas-liquid Low-pressure Forming of Concave Thin-walled Aluminum Alloy Tubes</h3>
+    <p style="color: #666; font-size: 14px; margin-top: 0;"><em>Master’s Thesis Research | Advisor: Prof. Zhubin He @ DUT</em> <span style="float: right;">09/2024 – Present</span></p>
+    
+    <!-- 推荐放入一张项目的原理图/流程图 -->
+    <p align="center" style="margin: 15px 0;">
+      <img src="/images/gllf_research.png" alt="GLLF Research" width="85%" style="border-radius: 6px; border: 1px solid #eaeaea;">
+    </p>
+
+    <ul style="font-size: 14.5px; line-height: 1.6;">
+      <li>Researched a novel gas–liquid low-pressure forming (GLLF) process for concave aluminum alloy tubes, addressing internal pressure control, wrinkling, and dimensional accuracy limits[cite: 8].</li>
+      <li>Proposed a dual-medium support strategy based on the gas state equation, enabling self-adaptive pressure evolution without active pressure control[cite: 8].</li>
+      <li>Established an ABAQUS finite element model to analyze circumferential stress and wall-thickness distributions and determine critical supporting pressure[cite: 8].</li>
+      <li>Constructed the experimental platform, achieving sub-millimeter (0.5 mm) dimensional accuracy[cite: 8].</li>
+      <li><strong>Outcomes:</strong> Submitted first-author paper to <em>IJAMT</em>; core technology won the <strong>Gold Medal at International Exhibition of Inventions Geneva (2026)</strong>. [<a href="https://youtu.be/IC-TBfFNUhA" target="_blank">Demonstrative Video</a>][cite: 8]</li>
+    </ul>
+  </div>
+
+  <hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+
+  <!-- Project 2 -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="margin-bottom: 5px; color: #111;">Development of Large-sized Integrated Thermoplastic Composite Structure</h3>
+    <p style="color: #666; font-size: 14px; margin-top: 0;"><em>Research Assistant | Advisor: Prof. Xigao Jian @ DUT</em> <span style="float: right;">01/2025 – 04/2026</span></p>
+    <ul style="font-size: 14.5px; line-height: 1.6;">
+      <li>Developed a rigid–flexible media collaborative loading approach with encapsulated prepreg tapes and custom sealing flange systems for uniform pneumatic pressure application[cite: 8].</li>
+      <li>Designed complete forming tools using Siemens NX (UG) and validated sealing performance via ABAQUS simulations[cite: 8].</li>
+      <li>Successfully fabricated large-sized components including 4m flat plates, 4m L-shaped webs, 3m Π-shaped reinforcing ribs, and 1m corrugated covers[cite: 8].</li>
+    </ul>
+  </div>
+
+  <hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+
+  <!-- Project 3 -->
+  <div>
+    <h3 style="margin-bottom: 5px; color: #111;">Active Control of Internal Pressure in Gas-liquid Medium Forming</h3>
+    <p style="color: #666; font-size: 14px; margin-top: 0;"><em>Bachelor’s Thesis Research | Advisor: Prof. Zhubin He @ DUT</em> <span style="float: right;">10/2023 – 06/2024</span></p>
+    <ul style="font-size: 14.5px; line-height: 1.6;">
+      <li>Designed a volume-based intervention mechanism with 0.05% steady-state error using a parallel-cylinder system[cite: 8].</li>
+      <li>Conducted ANSYS Fluent multiphase flow simulations and ABAQUS forming analysis to validate pressure regulation feasibility[cite: 8].</li>
+    </ul>
+  </div>
+</section>
+
+<!-- 4. Skills 板块 -->
+<section id="skills" class="section-card">
+  <h2>Skills</h2>
+  <ul style="line-height: 1.8; font-size: 15px;">
+    <li><strong>CAD & Modeling Softwares:</strong> Proficient in UG (Siemens NX), AutoCAD[cite: 8].</li>
+    <li><strong>CAE & Simulation Tools:</strong> Proficient in ABAQUS, ANSYS, FLUENT[cite: 8].</li>
+    <li><strong>Programming & Data Analysis:</strong> Python (Pandas, NumPy, Matplotlib, scikit-learn), MATLAB, C[cite: 8].</li>
+    <li><strong>Academic & Experimental Skills:</strong> Multiphysics Modeling, Experimental Platform Construction, Technical Writing & Presentation[cite: 8].</li>
+  </ul>
+</section>
+
+<!-- 5. Publications & Patents 板块 -->
+<section id="publications" class="section-card">
+  <h2>Publications & Patents</h2>
+
+  <h3>Journal Publications</h3>
+  <ol style="line-height: 1.6; font-size: 14.5px; padding-left: 20px;">
+    <li>
+      <strong>Zhijie Hu</strong>, Hang Yuan, Junzhuo Wang, Zhubin He, et al. "Gas-Liquid Low-Pressure Forming of Concave Thin-Walled Aluminum Alloy Tubes." <em>International Journal of Advanced Manufacturing Technology</em>, 2026. (In Revision)[cite: 8]
+    </li>
+    <li>
+      Hang Yuan, Junzhuo Wang, Yanli Lin, <strong>Zhijie Hu</strong>, Zhubin He, et al. "An integrated simulation method for process window determination and deformation analysis in gas-liquid low-pressure forming of complex thin-walled tubes." <em>Journal of Materials Processing Technology</em>, 2026.[cite: 8]
+    </li>
+    <li>
+      Hang Yuan, Yibo Su, Junzhuo Wang, <strong>Zhijie Hu</strong>, Zhubin He, et al. "Gas–liquid low-pressure forming breaks tube corner-forming limits." <em>International Journal of Mechanical Sciences</em>, 2026.[cite: 8]
+    </li>
+    <li>
+      Hang Yuan, Gaoning Tian, Yanli Lin, Yi Xu, <strong>Zhijie Hu</strong>, Zhubin He, et al. "Suppressing thin-wall instability through self-pressurizing of the medium: A novel gas-liquid low-pressure tube forming technology." <em>Journal of Materials Processing Technology</em>, 2025.[cite: 8]
+    </li>
+  </ol>
+
+  <h3 style="margin-top: 20px;">Patents</h3>
+  <ol style="line-height: 1.6; font-size: 14.5px; padding-left: 20px;">
+    <li>
+      <strong>Zhijie Hu</strong>, Zhubin He, et al. "A Movable Segmented Mold Structure for Gas–Liquid Hybrid Compression Forming." Patent No. CN11835一份专为你的学术主页（`About Me` / `Index`）量身定制的 Markdown 源码。整体风格参照了经典的学术个人主页模板（如 Li Mingli 等教授/博士生的主页样式），结构紧凑、专业度高，并针对 Ph.D. 申请做了重点优化。
+
+你可以直接复制以下 Markdown 内容到你的 GitHub Pages（如 Hugo, Jekyll, 静态 HTML 或 Markdown 渲染页面）中：
+
+---
+
+```markdown
+# Zhijie Hu (胡智杰)
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    <p>
+      Master's Student in Mechanical Engineering<br>
+      School of Mechanical Engineering<br>
+      Dalian University of Technology (DUT), Dalian, China
+    </p>
+    <p>
+      <strong>Email:</strong> <a href="mailto:xhjhuzj@163.com">xhjhuzj@163.com</a><br>
+      <strong>Website:</strong> <a href="[https://20201041009.github.io/](https://20201041009.github.io/)">20201041009.github.io</a><br>
+      <strong>Links:</strong> 
+      [<a href="[https://youtu.be/IC-TBfFNUhA](https://youtu.be/IC-TBfFNUhA)">Demonstration Video</a>] 
+      [<a href="./CV_Zhijie_Hu.pdf">Curriculum Vitae</a>]
+    </p>
+  </div>
+  <!-- 如果需要头像，可以在这里解除注释并替换图片链接 -->
+  <!-- <div style="width: 180px;">
+    <img src="your_avatar.jpg" alt="Zhijie Hu" style="width: 100%; border-radius: 8px;">
+  </div> -->
+</div>
+
+---
+
+## About Me
+
+I am currently a second-year Master's student in Mechanical Engineering at **Dalian University of Technology (DUT)**, advised by **Prof. Zhubin He**. Prior to this, I received my B.Sc. in Mechanical Engineering from DUT in June 2024 (Rank Top 5%). 
+
+My research focuses on **advanced metal forming technologies**, **composite material manufacturing**, and **finite element (FE) simulation & process optimization**. Recently, I have been actively exploring **AI for Manufacturing**, aiming to combine data-driven/physics-informed machine learning with physics-based modeling to push the boundaries of lightweight structure manufacturing.
+
+I am actively seeking **Ph.D. opportunities in Mechanical Engineering / Manufacturing** starting in **Fall 2027**.
+
+---
+
+## Research Interests
+
+* **Advanced Manufacturing Processes:** Gas-Liquid Low-Pressure Forming (GLLF), Hydroforming, Lightweight Structure Manufacturing.
+* **Composite Materials:** Continuous Carbon Fiber 3D Printing, Thermoplastic Composite Manufacturing.
+* **Computational Mechanics & Optimization:** FE Simulation (ABAQUS, ANSYS, FLUENT), Process Window Determination.
+* **AI for Manufacturing:** Physics-informed machine learning, simulation-driven design, and process parameter optimization.
+
+---
+
+## News
+
+* **[2026.08]** Submitted our paper *"Gas-Liquid Low-Pressure Forming of Concave Thin-Walled Aluminum Alloy Tubes"* to *IJAMT* (Currently Under Revision).
+* **[2026.05]** Awarded the **Gold Medal** at the **International Exhibition of Inventions Geneva** for our core Gas-Liquid Low-Pressure Forming technology.
+* **[2024.10]** Won the **National Gold Award** in the China International College Students' "Internet+" Innovation Competition (Rank 0.008%).
+
+---
+
+## Selected Publications & Patents
+
+*( * Equal Contribution / <sup>†</sup> Corresponding Author)*
+
+### Journal Publications
+1. **Zhijie Hu**, Hang Yuan, Junzhuo Wang, Zhubin He, et al. *Gas-Liquid Low-Pressure Forming of Concave Thin-Walled Aluminum Alloy Tubes*. **International Journal of Advanced Manufacturing Technology**, 2026. (In Revision) [[arXiv](https://arxiv.org/)][cite: 1]
+2. Hang Yuan, Junzhuo Wang, Yanli Lin, **Zhijie Hu**, Zhubin He, et al. *An integrated simulation method for process window determination and deformation analysis in gas-liquid low-pressure forming of complex thin-walled tubes*. **Journal of Materials Processing Technology (JMPT)**, 2026[cite: 1].
+3. Hang Yuan, Yibo Su, Junzhuo Wang, **Zhijie Hu**, Zhubin He, et al. *Gas–liquid low-pressure forming breaks tube corner-forming limits*. **International Journal of Mechanical Sciences (IJMS)**, 2026[cite: 1].
+4. Hang Yuan, Gaoning Tian, Yanli Lin, Yi Xu, **Zhijie Hu**, Zhubin He, et al. *Suppressing thin-wall instability through self-pressurizing of the medium: A novel gas-liquid low-pressure tube forming technology*. **Journal of Materials Processing Technology (JMPT)**, 2025[cite: 1].
+
+### Selected Patents
+* **Zhijie Hu**, Zhubin He, et al. *A Movable Segmented Mold Structure for Gas–Liquid Hybrid Compression Forming*. Patent No. CN118357339A[cite: 1].
+* Zhubin He, **Zhijie Hu**, et al. *A Pressure Control System and Method for Gas–Liquid Hybrid Compression Forming*. Patent No. CN118357339A[cite: 1].
+
+---
+
+## Honors & Awards
+
+* **Gold Medal**, International Exhibition of Inventions Geneva, 2026[cite: 1]
+* **National Gold Award**, China International College Students' "Internet+" Competition (0.008%), 2024[cite: 1]
+* **Science and Technology Innovation Scholarship**, DUT (Top 1%), 2025[cite: 1]
+* **Mechanical Engineering Alumni Scholarship**, DUT (Top 0.5%), 2022[cite: 1]
+* **Finalist Award (Top 1.8–2.0%)**, Mathematical Contest in Modeling (MCM/ICM), 2022[cite: 1]
+* **First Prize**, Liaoning Provincial Mechanical Innovation Design Competition, 2022[cite: 1]
+
+---
+
+## Education
+
+* **M.Sc. in Mechanical Engineering**, Dalian University of Technology, China (Sept. 2024 – May 2027)[cite: 1]
+  * **GPA:** 3.83/4.0 (Rank Top 1.5%)[cite: 1]
+* **B.Sc. in Mechanical Engineering**, Dalian University of Technology, China (Sept. 2020 – Jun. 2024)[cite: 1]
+  * **GPA:** 3.63/4.0 (Rank Top 5%)[cite: 1]
+
+---
+layout: single
+author_profile: true
+permalink: /
+---
+
 ## Biography {#biography}
 
 I am a Master's researcher in Mechanical Engineering at Dalian University of Technology (DUT), specializing in advanced manufacturing, metal forming, and lightweight structures. My research focuses on novel forming processes and multiphysics modeling, particularly in **gas–liquid low-pressure tube forming** and **flexible-media composite manufacturing**. 
@@ -11,11 +247,10 @@ I am a Master's researcher in Mechanical Engineering at Dalian University of Tec
 With a GPA of **3.83/4.0 (Top 1.5%)**, I have built a solid foundation in 3D modeling, process design, FEA simulations (ABAQUS), and experimental validation. I am actively seeking Ph.D. opportunities starting in **Fall 2027**.
 
 **Research Interests:**
-* Gas–Liquid Low-Pressure Tube Forming (GLLF)
-* Composite Material Processing & 3D Printed Molds
-* Finite Element Analysis (FEA) & Multiphysics Simulation
-* Lightweight Structural Design
-
+* **Advanced Metal Forming**: Gas–Liquid Low-Pressure Forming (GLLF), Hydroforming & Tube Forming Technology
+* **Composite Material Processing**: Hot Pressing Manufacturing & 3D Printed Dynamic Molds
+* **Computational Mechanics & Simulation**: Multiphysics Modeling, FEA (ABAQUS), Process Optimization
+* **Smart Manufacturing**: AI-driven Process Modeling & Bio-inspired Robotics
 ---
 
 ## Education {#education}
