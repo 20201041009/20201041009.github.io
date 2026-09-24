@@ -11,16 +11,21 @@ permalink: /
     I am a Master's student in Mechanical Engineering at <strong>Dalian University of Technology (DUT)</strong>, working under the supervision of Prof. Zhubin He. My research spans advanced manufacturing and lightweight structural design, with a primary focus on novel metal forming processes, composite manufacturing, and multiphysics modeling.
   </p>
   <p>
-    With an overall GPA of <strong>3.83/4.0 (ranked Top 1.5%)</strong> and expertise in CAD/CAE simulations (ABAQUS, ANSYS, FLUENT), I have published multiple research papers in leading mechanical journals, hold several patents, and led teams to win national gold awards. I am actively seeking Ph.D. opportunities starting in <strong>Fall 2027</strong>.
+    With an overall GPA of <strong>3.83/4.0 (ranked Top 1.5%)</strong> and expertise in CAD/CAE simulations (ABAQUS, ANSYS), I have published multiple research papers in leading mechanical journals, hold several patents, and led teams to win national gold awards. I am actively seeking Ph.D. opportunities starting in <strong>Fall 2027</strong>.
   </p>
 
-  <p><strong>Research Interests:</strong></p>
-  <ul>
-    <li><strong>Advanced Manufacturing Processes:</strong> Gas–Liquid Low-Pressure Tube Forming (GLLF), Hydroforming & Tube Forming Technology</li>
-    <li><strong>Composite Material Processing:</strong> Hot Pressing Manufacturing & 3D Printed Dynamic Molds</li>
-    <li><strong>Simulation & Optimization:</strong> Multiphysics Modeling, FE Simulation (ABAQUS, ANSYS, FLUENT) & Process Optimization</li>
-    <li><strong>AI for Manufacturing:</strong> Data-driven Process Modeling & Smart Toolpath Planning</li>
-  </ul>
+<p><strong>Research Interests:</strong></p>
+<ul>
+  <li>
+    <strong>Advanced Manufacturing & Processing:</strong> Metal Forming & Casting, Metal Additive Manufacturing (3D Printing), Micro/Nano-Fabrication
+  </li>
+  <li>
+    <strong>Lightweight Design & Manufacturing:</strong> Lightweight Structural Optimization, Composite Processing & Hybrid Forming Technologies
+  </li>
+  <li>
+    <strong>Computational Mechanics & CAE Simulation:</strong> Multiphysics Modeling, Finite Element Analysis (FEA/CAE), Process Window Optimization (ABAQUS, ANSYS, FLUENT)
+  </li>
+</ul>
 </section>
 
 <!-- 2. Education 板块 -->
