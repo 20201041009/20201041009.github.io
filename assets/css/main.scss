@@ -37,3 +37,105 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+CSS
+/* 设置全站背景为浅灰色 */
+body {
+  background-color: #f8f9fa !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #333333;
+}
+
+/* 核心：一块一块的白色卡片样式 */
+.section-card {
+  background: #ffffff;             /* 卡片背景为纯白 */
+  border-radius: 12px;             /* 柔和圆角 */
+  padding: 30px;                   /* 卡片内部边距 */
+  margin-bottom: 25px;             /* 块与块之间的间距 */
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05); /* 浅色悬浮阴影 */
+  border: 1px solid rgba(0, 0, 0, 0.03);    /* 微弱边框线 */
+}
+
+/* 块内标题样式 */
+.section-card h2 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #111111;
+  border-bottom: 1px solid #eeeeee; /* 标题下方的细分割线 */
+  padding-bottom: 10px;
+}
+
+/* 设置平滑跳转与固定导航栏偏移 */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px; /* 调整跳转后的顶部留白，防止被导航栏遮挡 */
+}
+
+/* Beyond Academia 网格容器 (响应式两列) */
+.hobby-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 默认两列 */
+  gap: 20px;                             /* 卡片间距 */
+  margin-top: 15px;
+}
+
+/* 内部单个兴趣小卡片 */
+.hobby-card {
+  background: #ffffff;
+  border: 1px solid #eef0f2;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.hobby-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+/* 图片容器：固定高度与裁切 */
+.hobby-img-wrapper {
+  width: 100%;
+  height: 160px; /* 控制图片展示高度 */
+  overflow: hidden;
+  background-color: #f2f4f6;
+}
+
+.hobby-img-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 自动等比例缩放填充，不拉伸变形 */
+  display: block;
+}
+
+/* 文字内容区域 */
+.hobby-content {
+  padding: 16px 18px;
+  flex: 1;
+}
+
+.hobby-content h3 {
+  margin: 0 0 8px 0;
+  font-size: 17px;
+  font-weight: 600;
+  color: #111111;
+}
+
+.hobby-content p {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: #555555;
+}
+
+/* 手机端适配：当屏幕较小时切换为单列 */
+@media (max-width: 680px) {
+  .hobby-grid {
+    grid-template-columns: 1fr;
+  }
+}
