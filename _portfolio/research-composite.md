@@ -118,4 +118,4 @@ The thermoforming behavior of continuous fiber-reinforced thermoplastics involve
 
 <div class="section-heading">Outlook</div>
 
-Future investigations will focus on automated fiber placement (AFP) coupling and ultrasonic consolidation testing for automated, high-throughput manufacturing of primary aerospace load-bearing parts.
+Future investigations will focus on developing more complex-shaped thermoplastic composites and improving the forming efficiency of large-sized thermoplastic composites.

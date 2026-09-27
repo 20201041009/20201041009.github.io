@@ -120,4 +120,4 @@ A combined experimental and numerical approach was deployed:
 
 <div class="section-heading">Outlook</div>
 
-Future work aims to extend the GLLF framework to ultra-high-strength materials (e.g., Titanium and Nickel-based alloys) and integrate real-time acoustic emission monitoring for adaptive pressure closed-loop control during high-speed industrial manufacturing.
+Future work aims to extend the GLLF framework to ultra-high-strength materials (e.g., Titanium and Nickel-based alloys).
