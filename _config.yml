@@ -362,6 +362,6 @@ compress_html:
   ignore:
     envs: development
 
+# 强制 Jekyll 编译 _pages 文件夹里的所有子页面
 include:
   - _pages
-  - .htaccess
