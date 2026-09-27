@@ -242,3 +242,22 @@ CSS
   text-align: center;
   line-height: 1.4;
 }
+
+CSS
+/* 让整张卡片可点击且去除下划线 */
+.research-card-link {
+  text-decoration: none !important;
+  color: inherit !important;
+  display: block;
+}
+
+/* 鼠标悬停时的卡片微动效果 */
+.research-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.research-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}

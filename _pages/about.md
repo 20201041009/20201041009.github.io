@@ -15,17 +15,17 @@ permalink: /
   </p>
 
 <p><strong>Research Interests:</strong></p>
-<ul>
-  <li>
-    <strong>Advanced Manufacturing & Processing:</strong> Metal Forming & Casting, Metal Additive Manufacturing (3D Printing), Micro/Nano-Fabrication
-  </li>
-  <li>
-    <strong>Lightweight Design & Manufacturing:</strong> Lightweight Structural Optimization, Composite Processing & Hybrid Forming Technologies
-  </li>
-  <li>
-    <strong>Computational Mechanics & CAE Simulation:</strong> Multiphysics Modeling, Finite Element Analysis (FEA/CAE), Process Window Optimization (ABAQUS, ANSYS, FLUENT)
-  </li>
-</ul>
+  <ul style="line-height: 1.8; font-size: 15px;">
+    <li>
+      <strong>Advanced Manufacturing & Processing:</strong> Metal Forming, Casting, Metal Additive Manufacturing (3D Printing), Micro/Nano-Fabrication
+    </li>
+    <li>
+      <strong>Lightweight Design & Manufacturing:</strong> Lightweight Structural Design and Optimization, Composite Manufacturing, Hybrid Forming and Manufacturing Processes
+    </li>
+    <li>
+      <strong>Computational Mechanics & Process Optimization:</strong> Finite Element Analysis (FEA/CAE), Multiphysics Modeling, Computational Mechanics, Process Simulation and Optimization
+    </li>
+  </ul>
 </section>
 
 <!-- 2. Education 板块 -->
@@ -69,8 +69,8 @@ permalink: /
 
   <div class="research-grid">
 
-    <!-- 项目 1 -->
-    <a href="/research/gllf/" class="research-card-link">
+    <!-- 项目 1: 气液低压成形 -->
+    <a href="/research/gllf-tube-forming/" class="research-card-link">
       <div class="research-card">
         <div class="research-img-wrapper">
           <img src="/images/gllf_research.png" alt="Gas-liquid Low-pressure Forming">
@@ -81,8 +81,8 @@ permalink: /
       </div>
     </a>
 
-    <!-- 项目 2 -->
-    <a href="/research/thermoplastic-composite/" class="research-card-link">
+    <!-- 项目 2: 热塑性复合材料 -->
+    <a href="/research/composite-structure/" class="research-card-link">
       <div class="research-card">
         <div class="research-img-wrapper">
           <img src="/images/composite_research.png" alt="Thermoplastic Composite Structure">
