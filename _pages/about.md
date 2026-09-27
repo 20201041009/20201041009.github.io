@@ -70,7 +70,7 @@ permalink: /
   <div class="research-grid">
 
     <!-- 项目 1: 气液低压成形 -->
-    <a href="/research/gllf-tube-forming/" class="research-card-link">
+    <a href="/portfolio/gllf-tube-forming/" class="research-card-link">
       <div class="research-card">
         <div class="research-img-wrapper">
           <img src="/images/gllf_research.png" alt="Gas-liquid Low-pressure Forming">
@@ -82,7 +82,7 @@ permalink: /
     </a>
 
     <!-- 项目 2: 热塑性复合材料 -->
-    <a href="/research/composite-structure/" class="research-card-link">
+    <a href="/portfolio/composite-structure/" class="research-card-link">
       <div class="research-card">
         <div class="research-img-wrapper">
           <img src="/images/composite_research.png" alt="Thermoplastic Composite Structure">
