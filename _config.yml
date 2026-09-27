@@ -250,12 +250,12 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # pages
   - scope:
-      path: ""
-      type: pages
+      path: "_pages"
+      type: "pages"
     values:
-      layout: single
+      layout: "single"
       author_profile: true
   # _teaching
   - scope:
