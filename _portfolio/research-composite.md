@@ -58,7 +58,7 @@ author_profile: true
 
 <div class="project-subtitle">
   Key R&D Project · Dalian University of Technology<br>
-  Jul. 2026 – Present
+  Jan. 2025 – April. 2026
 </div>
 
 <div class="section-heading">Overview</div>

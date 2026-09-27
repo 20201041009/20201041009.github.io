@@ -50,7 +50,7 @@ author_profile: true
 
 <div class="project-subtitle">
   Master's Thesis Project · Dalian University of Technology · Advisor: Prof. Zhubin He<br>
-  Mar. 2026 – Sep. 2026
+  Sep. 2024 – Present
 </div>
 
 <div class="section-heading">Overview</div>
@@ -59,10 +59,10 @@ Complex concave thin-walled metal components are critical for structural lightwe
 
 This project establishes a novel **Gas-Liquid Low-Pressure Forming (GLLF)** technology for 6061 aluminum alloy tubes. By harnessing the high compressibility of the gas phase combined with flexible liquid support, the process achieves dynamic self-pressurization to overcome conventional forming boundaries.
 
-<!-- 图片插槽 1：试验装置与工艺原理图 -->
+<!-- 图片插槽 1：成形工艺原理与介质耦合示意图 -->
 <div class="img-container">
-  <img src="/images/gllf_setup.png" alt="GLLF Experimental Setup">
-  <div class="img-caption">Fig. 1: Experimental setup and modular architecture for the Gas-Liquid Low-Pressure Forming process.</div>
+  <img src="/images/gllf_principle.png" alt="GLLF Process Principle and Gas-Liquid Medium Interaction">
+  <div class="img-caption">Fig. 1: Schematic illustration of the Gas-Liquid Low-Pressure Forming (GLLF) mechanism and dynamic pressurization concept.</div>
 </div>
 
 <div class="section-heading">Theory</div>
@@ -74,6 +74,12 @@ The deformation zone experiences a complex "tension-bending-compression" stress 
 3. **Straight-Wall Anti-Buckling Criterion**: Established using thin-plate stability theory under in-plane biaxial compression:
    $$p_{\text{cr, edge}} \ge \frac{F_d}{L \cdot t \cdot \sin\theta} - \frac{\pi^2 E}{12(1-\nu^2)} \left(\frac{t}{L}\right)^2$$
 
+<!-- 图片插槽 2：理论力学模型与应力状态分析图 -->
+<div class="img-container">
+  <img src="/images/gllf_theory_model.png" alt="Analytical Model and Stress Distribution">
+  <div class="img-caption">Fig. 2: Stress state decomposition and mechanical stability boundaries during concave corner fitting.</div>
+</div>
+
 <div class="section-heading">Methodology</div>
 
 A combined experimental and numerical approach was deployed:
@@ -82,10 +88,16 @@ A combined experimental and numerical approach was deployed:
 * **Closed-Loop Co-Simulation**: Implemented a custom **Python script** dynamically coupling cross-sectional volume changes with instantaneous medium pressure increments across each solution step.
 * **Experimental Validation**: Conducted forming tests on 6061-O aluminum tubes across $30^\circ$, $45^\circ$, and $60^\circ$ concave angles under varying initial gas ratios ($k = 0.6, 0.7$).
 
-<!-- 图片插槽 2：ABAQUS 有限元仿真与 Python 动态耦合流程图 -->
+<!-- 图片插槽 3：实验设备、成形模具与工装架构 -->
 <div class="img-container">
-  <img src="/images/gllf_simulation.png" alt="Finite Element Simulation & Python Coupling">
-  <div class="img-caption">Fig. 2: ABAQUS FEA model and Python-based pressure-volume dynamic coupling simulation flow.</div>
+  <img src="/images/gllf_setup.png" alt="Experimental Machine Tooling and Dies">
+  <div class="img-caption">Fig. 3: Modular forming die assembly, sealing system, and hydraulic experimental setup.</div>
+</div>
+
+<!-- 图片插槽 4：ABAQUS 有限元网格与 Python 动态耦合流程 -->
+<div class="img-container">
+  <img src="/images/gllf_simulation.png" alt="FEA Simulation Mesh and Python Algorithm Flowchart">
+  <div class="img-caption">Fig. 4: ABAQUS finite element model, strain/stress contours, and Python-based dynamic P-V coupling flowchart.</div>
 </div>
 
 <div class="section-heading">Results and Discussion</div>
@@ -94,10 +106,16 @@ A combined experimental and numerical approach was deployed:
 * **Uniform Wall Thickness**: Shifted the fundamental deformation mode from tensile thinning to compressive accumulation, limiting maximum thinning rate within **5.5%**.
 * **High Geometric Precision**: Global 3D profile deviation was strictly controlled within **0.5 mm**.
 
-<!-- 图片插槽 3：成形管件实物与壁厚测量对比图 -->
+<!-- 图片插槽 5：成形管件实物图（不同角度/气液比对比） -->
 <div class="img-container">
-  <img src="/images/gllf_results.png" alt="Formed Component & Thickness Distribution">
-  <div class="img-caption">Fig. 3: Comparison of formed concave aluminum alloy tubes and wall thickness distribution profiles.</div>
+  <img src="/images/gllf_parts.png" alt="Formed Concave Aluminum Alloy Tubes">
+  <div class="img-caption">Fig. 5: Macro-photographs of formed 6061-O aluminum alloy concave tubes under varying concave angles ($30^\circ, 45^\circ, 60^\circ$).</div>
+</div>
+
+<!-- 图片插槽 6：壁厚分布与三维扫描几何偏差测量图 -->
+<div class="img-container">
+  <img src="/images/gllf_thickness_deviation.png" alt="Wall Thickness Profile and 3D Deviation Map">
+  <div class="img-caption">Fig. 6: Wall thickness distribution curves and 3D optical scanning deviation contours demonstrating high geometric accuracy.</div>
 </div>
 
 <div class="section-heading">Outlook</div>
