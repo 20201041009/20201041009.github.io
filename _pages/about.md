@@ -117,7 +117,7 @@ permalink: /
     
     <!-- Paper 1 -->
     <li style="margin-bottom: 12px;">
-      <strong>Zhijie Hu</strong>, Hang Yuan, Junzhuo Wang, Zhubin He, et al. "Gas-Liquid Low-Pressure Forming of Concave Thin-Walled Aluminum Alloy Tubes." <em>International Journal of Advanced Manufacturing Technology</em>, 2026. (In Revision)
+      <strong>Zhijie Hu</strong>, Hang Yuan, Junzhuo Wang, Zhubin He, et al. "Gas-Liquid Low-Pressure Forming of Concave Thin-Walled Aluminum Alloy Tubes." <em>International Journal of Advanced Manufacturing Technology</em>, 2026.
       <div style="margin-top: 4px;">
         <a href="/files/paper_gllf_draft.pdf" target="_blank" class="btn-link">📄 Draft PDF</a>
         <a href="https://youtu.be/IC-TBfFNUhA" target="_blank" class="btn-link">🎬 Video</a>
@@ -160,8 +160,8 @@ permalink: /
     <li style="margin-bottom: 12px;">
       <strong>Zhijie Hu</strong>, Zhubin He, et al. "A Movable Segmented Mold Structure for Gas–Liquid Hybrid Compression Forming." Patent No. CN118357339A.
       <div style="margin-top: 4px;">
-        <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui" target="_blank" class="btn-link">📜 Patent Link</a>
-        <a href="/files/CN202410517167_FullTextImage.pdf" target="_blank" class="btn-link">📄 PDF</a>
+         <a href="/files/CN202410517167_FullTextImage.pdf" target="_blank" class="btn-link">📄 PDF</a>       
+         <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui" target="_blank" class="btn-link">📜 Patent Link</a>
       </div>
     </li>
 
@@ -169,8 +169,8 @@ permalink: /
     <li style="margin-bottom: 12px;">
       Zhubin He, <strong>Zhijie Hu</strong>, et al. "A Pressure Control System and Method for Gas–Liquid Hybrid Compression Forming." Patent No. CN118357339A.
       <div style="margin-top: 4px;">
-        <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui" target="_blank" class="btn-link">📜 Patent Link</a>
-        <a href="/files/CN202511049262_FullTextImage.pdf" target="_blank" class="btn-link">📄 PDF</a>
+         <a href="/files/CN202511049262_FullTextImage.pdf" target="_blank" class="btn-link">📄 PDF</a>
+         <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui" target="_blank" class="btn-link">📜 Patent Link</a>
       </div>
     </li>
 

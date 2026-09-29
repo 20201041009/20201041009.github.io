@@ -174,3 +174,23 @@
     </ul>
   </div>
 </div>
+
+<li>
+  <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
+  <span id="user-email" style="user-select: text;">1215092225@mail.dlut.edu.cn</span>
+  <button onclick="copyEmail()" style="border:none; background:none; cursor:pointer; color:#1a5fb4; padding-left:5px;" title="Copy Email">
+    <i class="far fa-copy"></i>
+  </button>
+  <span id="copy-success" style="display:none; font-size:0.8em; color:green; margin-left:5px;">Copied!</span>
+</li>
+
+<script>
+function copyEmail() {
+  const emailText = document.getElementById('user-email').innerText;
+  navigator.clipboard.writeText(emailText).then(() => {
+    const msg = document.getElementById('copy-success');
+    msg.style.display = 'inline';
+    setTimeout(() => { msg.style.display = 'none'; }, 2000);
+  });
+}
+</script>
