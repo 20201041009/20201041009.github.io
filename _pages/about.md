@@ -15,7 +15,7 @@ permalink: /
   </p>
 
 <p><strong>Research Interests:</strong></p>
-<ul class="custom-list">
+  <ul style="line-height: 1.8; font-size: 15px;">
     <li>
       <strong>Advanced Manufacturing & Processing:</strong> Metal Forming, Casting, Metal Additive Manufacturing (3D Printing), Micro/Nano-Fabrication
     </li>
@@ -33,14 +33,12 @@ permalink: /
   <h2>Education</h2>
 
   <!-- M.Sc. 教育经历 -->
-  <div class="edu-item">
-    <img src="/images/DUT_logo.png" alt="DUT Logo" class="edu-logo">
-    <div class="edu-details">
-      <h3 class="edu-school">Dalian University of Technology (DUT)</h3>
-      <p class="edu-degree">
-        M.Sc. in Mechanical Engineering | Sept. 2024 – May 2027 (Expected)
-      </p>
-      <ul class="edu-list">
+  <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 25px;">
+    <img src="/images/DUT_logo.png" alt="DUT Logo" width="75px" style="margin-top: 5px;">
+    <div style="flex: 1;">
+      <h3 style="margin: 0; font-size: 18px;">Dalian University of Technology (DUT)</h3>
+      <p style="margin: 3px 0; color: #666; font-weight: 500;">M.Sc. in Mechanical Engineering | Sept. 2024 – May 2027 (Expected)</p>
+      <ul style="margin-top: 8px; padding-left: 18px; font-size: 14.5px;">
         <li><strong>GPA:</strong> 3.83 / 4.0 (Ranked Top 1.5%)</li>
         <li><strong>Core Courses:</strong> Precision Metal Forming Tech., Additive Manufacturing & Composite Materials Processing, Robot Design & Application, Ultrasonic Nondestructive Evaluation, Mechatronics Tech.</li>
         <li><strong>Honors:</strong> Science and Technology Innovation Scholarship (Top 1%), Gold Award in China "Internet+" Innovation Competition (National Finals, Top 0.008%).</li>
@@ -48,17 +46,15 @@ permalink: /
     </div>
   </div>
 
-  <hr class="edu-divider">
+  <hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
 
   <!-- B.Sc. 教育经历 -->
-  <div class="edu-item">
-    <img src="/images/DUT_logo.png" alt="DUT Logo" class="edu-logo">
-    <div class="edu-details">
-      <h3 class="edu-school">Dalian University of Technology (DUT)</h3>
-      <p class="edu-degree">
-        B.Sc. in Mechanical Engineering (Mechanical Design, Manufacturing & Automation) | Sept. 2020 – Jun. 2024
-      </p>
-      <ul class="edu-list">
+  <div style="display: flex; align-items: flex-start; gap: 20px;">
+    <img src="/images/DUT_logo.png" alt="DUT Logo" width="75px" style="margin-top: 5px;">
+    <div style="flex: 1;">
+      <h3 style="margin: 0; font-size: 18px;">Dalian University of Technology (DUT)</h3>
+      <p style="margin: 3px 0; color: #666; font-weight: 500;">B.Sc. in Mechanical Engineering (Mechanical Design, Manufacturing & Automation) | Sept. 2020 – Jun. 2024</p>
+      <ul style="margin-top: 8px; padding-left: 18px; font-size: 14.5px;">
         <li><strong>GPA:</strong> 3.63 / 4.0 (Ranked Top 5%)</li>
         <li><strong>Core Courses:</strong> Mechanical Principle & Design, Mechanics of Materials, Advanced Forming Technology, Fluid Power & Control, Precision Machinery Manufacturing.</li>
         <li><strong>Honors:</strong> Mechanical Engineering Alumni Scholarship (Top 0.5%), Academic Excellence Scholarship (2021-2023), Finalist in MCM/ICM (Top 1.8%-2.0%), Gold Award in Challenge Cup Liaoning Competition.</li>
@@ -103,7 +99,7 @@ permalink: /
 <!-- 4. Skills 板块 -->
 <section id="skills" class="section-card">
   <h2>Skills</h2>
-<ul class="custom-list">
+  <ul style="line-height: 1.8; font-size: 15px;">
     <li><strong>CAD & Modeling Softwares:</strong> Proficient in UG (Siemens NX), AutoCAD.</li>
     <li><strong>CAE & Simulation Tools:</strong> Proficient in ABAQUS, ANSYS, FLUENT.</li>
     <li><strong>Programming & Data Analysis:</strong> Python (Pandas, NumPy, Matplotlib, scikit-learn), MATLAB, C.</li>
@@ -183,7 +179,7 @@ permalink: /
 <!-- 6. Honors & Awards 板块 -->
 <section id="awards" class="section-card">
   <h2>Honors & Awards</h2>
-<ul class="custom-list">
+  <ul style="line-height: 1.8; font-size: 15px;">
     <li><strong>Gold Medal</strong>, International Exhibition of Inventions Geneva (2026)</li>
     <li><strong>National Gold Award</strong>, China International College Students' "Internet+" Competition (Rank 0.008%, 2024)</li>
     <li><strong>Science and Technology Innovation Scholarship</strong>, DUT (Top 1%, 2025)</li>
