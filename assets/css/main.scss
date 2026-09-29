@@ -261,3 +261,111 @@ CSS
   transform: translateY(-4px);
   box-shadow: 0 6px 16px rgba(0,0,0,0.12);
 }
+
+/* 1. 突破默认最大宽度限制，拓宽整体布局 */
+#main {
+  max-width: 88% !important; /* 或者使用 1400px / 1500px */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* 如果使用的是 single layout 布局容器 */
+.page {
+  max-width: 100% !important;
+}
+
+/* 调整右侧主内容区的占比与边距 */
+.archive, .page__content {
+  width: 100% !important;
+}
+
+CSS
+/* 2. 提升基础字号与行高 */
+body {
+  font-size: 16px !important;
+  line-height: 1.65 !important;
+  color: #2b2b2b; /* 加深字体颜色，提高可读性 */
+}
+
+/* 调整主要标题字号 */
+.section-card h2 {
+  font-size: 1.65rem !important; /* 约 26px */
+  margin-bottom: 1rem !important;
+  border-bottom: 2px solid #eaeaea;
+  padding-bottom: 0.3rem;
+}
+
+.section-card h3 {
+  font-size: 1.25rem !important; /* 约 20px */
+}
+
+/* 卡片内部正文与列表字号 */
+.section-card p, 
+.section-card ul, 
+.section-card ol {
+  font-size: 1rem !important; /* 16px */
+  line-height: 1.7 !important;
+}
+
+/* 3. 优化板块卡片样式 */
+.section-card {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 30px 35px !important; /* 增加卡片内边距 */
+  margin-bottom: 30px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* 柔和阴影 */
+  border: 1px solid #eef0f2;
+}
+
+CSS
+/* 教育经历板块样式 */
+.edu-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px; /* 增加 Logo 与文字间距 */
+  margin-bottom: 10px;
+}
+
+.edu-logo {
+  width: 80px; /* 略微放大 Logo 适应拓宽后的布局 */
+  height: auto;
+  margin-top: 4px;
+  flex-shrink: 0; /* 防止 Logo 在小屏下被挤压 */
+}
+
+.edu-details {
+  flex: 1;
+}
+
+.edu-school {
+  margin: 0;
+  font-size: 1.2rem; /* 使用 rem 随全局字体自适应 */
+  font-weight: 600;
+  color: #1a2b3c;
+}
+
+.edu-degree {
+  margin: 4px 0 8px 0;
+  color: #555555;
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+.edu-list {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 0.98rem;
+  line-height: 1.7;
+}
+
+.edu-list li {
+  margin-bottom: 6px;
+}
+
+.edu-divider {
+  border: none;
+  border-top: 1px solid #eef0f2;
+  margin: 25px 0;
+}
