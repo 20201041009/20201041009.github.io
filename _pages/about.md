@@ -119,7 +119,8 @@ permalink: /
     <li style="margin-bottom: 12px;">
       <strong>Zhijie Hu</strong>, Hang Yuan, Junzhuo Wang, Zhubin He, et al. "Gas-Liquid Low-Pressure Forming of Concave Thin-Walled Aluminum Alloy Tubes." <em>International Journal of Advanced Manufacturing Technology</em>, 2026.
       <div style="margin-top: 4px;">
-        <a href="/files/paper_gllf_draft.pdf" target="_blank" class="btn-link">📄 Draft PDF</a>
+        <a href="/files/paper_ijamt_2026.pdf" target="_blank" class="btn-link">📄 PDF</a>
+        <a href="https://doi.org/10.1007/s00170-026-19222-y" target="_blank" class="btn-link">🌐 Publisher Link</a>
         <a href="https://youtu.be/IC-TBfFNUhA" target="_blank" class="btn-link">🎬 Video</a>
       </div>
     </li>
@@ -174,8 +175,24 @@ permalink: /
       </div>
     </li>
 
+    <!-- Patent 3 -->
+    <li style="margin-bottom: 12px;">
+      Tianyu Wang, Hang Yuan, Xinyu Hu, <strong>Zhijie Hu</strong>, Zhubin He, et al. "A Rapid Part Removal Method and Device for Gas–Liquid Hybrid Compression Forming." Patent No. CN202410399987.2.
+    </li>
+
+    <!-- Patent 4 -->
+    <li style="margin-bottom: 12px;">
+      Yingguang Zhao, Dongsheng Xiang, Haochen Zhao, Xiangyue Sun, <strong>Zhijie Hu</strong>, et al. "A Forming Device and Method for Complex Thin-Walled Components Based on Multi-Medium Fluid–Solid Support." Patent No. CN122033111A.
+    </li>
+
+    <!-- Patent 5 -->
+    <li style="margin-bottom: 12px;">
+      Xiangyue Sun, Dongsheng Xiang, Junzhuo Wang, Jinhe Shi, <strong>Zhijie Hu</strong>, et al. "A Sealing Device and Method for Large-Scale Thin-Walled Metal Tubes." Patent Application No. CN2026107695396.
+    </li>
+
   </ol>
 </section>
+
 <!-- 6. Honors & Awards 板块 -->
 <section id="awards" class="section-card">
   <h2>Honors & Awards</h2>
