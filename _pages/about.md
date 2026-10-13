@@ -168,7 +168,7 @@ permalink: /
 
     <!-- Patent 2 -->
     <li style="margin-bottom: 12px;">
-      Zhubin He, <strong>Zhijie Hu</strong>, et al. "A Pressure Control System and Method for Gas–Liquid Hybrid Compression Forming." Patent No. CN118357339A.
+      Zhubin He, <strong>Zhijie Hu</strong>, et al. "A Pressure Control System and Method for Gas–Liquid Hybrid Compression Forming." Patent No. CN120872051A.
       <div style="margin-top: 4px;">
          <a href="/files/CN202511049262_FullTextImage.pdf" target="_blank" class="btn-link">📄 PDF</a>
          <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui" target="_blank" class="btn-link">📜 Patent Link</a>
